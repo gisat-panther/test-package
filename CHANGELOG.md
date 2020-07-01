@@ -1,3 +1,15 @@
+# v4.0.4 (Wed Jul 01 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Do not require `release` tag ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v4.0.3 (Wed Jul 01 2020)
 
 #### 🐛 Bug Fix
