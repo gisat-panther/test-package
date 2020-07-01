@@ -1,3 +1,19 @@
+# v4.0.1 (Wed Jul 01 2020)
+
+#### 🐛 Bug Fix
+
+- 4 patch [#16](https://github.com/gisat-panther/test-package/pull/16) ([@nenadalm](https://github.com/nenadalm))
+
+#### ⚠️ Pushed to `master`
+
+- Update docs ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v4.0.0 (Wed Jul 01 2020)
 
 #### 💥 Breaking Change
