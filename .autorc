@@ -1,7 +1,6 @@
 {
     "name": "ci",
     "email": "ci@example.com",
-    "onlyPublishWithReleaseLabel": true,
     "baseBranch": "master",
     "prereleaseBranches": ["dev"]
 }
