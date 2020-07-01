@@ -30,3 +30,9 @@ $ npm publish --access public
 Label `release` needs to be added to pr to make a release.
 
 One of these labels can be added to the pr in order increment right version number after it's merged into master (defaults to `patch`): `major`, `minor`, `patch`.
+
+## Prerelease branches
+
+This repo has `dev` prerelease branch. PR to prerelease branch always creates release. In case other version than `patch` should be incremented, `release` and corresponding version label has to be added to the pr.
+
+PR created from prerelease branch to `master` should have `release` tag to create correct version. Correct version number will be incremented if last prerelease has correct version.
