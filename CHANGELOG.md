@@ -1,3 +1,16 @@
+# v0.0.5 (Wed Jul 01 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'master' of github.com:gisat-panther/test-package ([@nenadalm](https://github.com/nenadalm))
+- Fix md link ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v0.0.4 (Wed Jul 01 2020)
 
 #### ⚠️ Pushed to `master`
