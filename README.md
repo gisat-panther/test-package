@@ -32,3 +32,7 @@ One of these labels have to be added to the pr in order increment right version 
 ## Prerelease branches
 
 This repo has `dev` prerelease branch.
+
+## Make sure that pr contains label specifying version number to increment
+
+see [example](.github/workflows/tag-validation.yml)
