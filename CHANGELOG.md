@@ -1,3 +1,15 @@
+# v1.0.0 (Wed Jul 01 2020)
+
+#### 💥 Breaking Change
+
+- major test [#5](https://github.com/gisat-panther/test-package/pull/5) ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v0.0.5 (Wed Jul 01 2020)
 
 #### ⚠️ Pushed to `master`
