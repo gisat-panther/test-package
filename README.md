@@ -11,7 +11,7 @@ $ npm install -D auto
 - create github token at `https://github.com/settings/tokens/new` with `repo` permissions
 - make tokens available as env variables (`NPM_TOKEN`, `GH_TOKEN` on ci)
 
-- configure ci to make auto release (full example can be seen in (.github/workflows/release.yml)[.github/workflows/release.yml])
+- configure ci to make auto release (full example can be seen in [.github/workflows/release.yml](.github/workflows/release.yml))
 ```shell
 git config --global user.email "ci@example.com"
 git config --global user.name "ci"
