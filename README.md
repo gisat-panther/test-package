@@ -13,10 +13,10 @@ $ npm install -D auto
 
 - configure ci to make auto release (full example can be seen in [.github/workflows/release.yml](.github/workflows/release.yml))
 ```shell
-git config --global user.email "ci@example.com"
-git config --global user.name "ci"
-npx auto shipit
+$ npx auto shipit
 ```
+
+- configure auto [example](.autorc)
 
 ## Make first publish
 
@@ -27,4 +27,6 @@ $ npm publish --access public
 
 ## Mark prs for release
 
-One of tese tags can be added to the pr in order increment right version number after it's merged into master (defaults to `patch`): `major`, `minor`, `patch`.
+Label `release` needs to be added to pr to make a release.
+
+One of these labels can be added to the pr in order increment right version number after it's merged into master (defaults to `patch`): `major`, `minor`, `patch`.
