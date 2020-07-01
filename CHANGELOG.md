@@ -1,3 +1,21 @@
+# v2.0.0 (Wed Jul 01 2020)
+
+#### 💥 Breaking Change
+
+- 2-pre [#10](https://github.com/gisat-panther/test-package/pull/10) ([@nenadalm](https://github.com/nenadalm))
+- major pre-release [#8](https://github.com/gisat-panther/test-package/pull/8) ([@nenadalm](https://github.com/nenadalm))
+
+#### 🐛 Bug Fix
+
+- v2 pre-release [#9](https://github.com/gisat-panther/test-package/pull/9) ([@nenadalm](https://github.com/nenadalm))
+- Running release on dev branch [#7](https://github.com/gisat-panther/test-package/pull/7) ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v1.0.1 (Wed Jul 01 2020)
 
 #### 🐛 Bug Fix
