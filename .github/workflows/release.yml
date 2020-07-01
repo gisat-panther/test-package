@@ -34,7 +34,4 @@ jobs:
                   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
               run: |
                   npm ci
-
-                  git config --global user.email "ci@example.com"
-                  git config --global user.name "ci"
                   npx auto shipit
