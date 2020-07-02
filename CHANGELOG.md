@@ -1,3 +1,15 @@
+# v5.2.0 (Thu Jul 02 2020)
+
+#### 🚀 Enhancement
+
+- Labels config (just include labels we want) [#27](https://github.com/gisat-panther/test-package/pull/27) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v5.1.0 (Thu Jul 02 2020)
 
 #### 🚀 Enhancement
