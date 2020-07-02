@@ -1,3 +1,15 @@
+# v5.1.0 (Thu Jul 02 2020)
+
+#### 🚀 Enhancement
+
+- Fix label colors [#24](https://github.com/gisat-panther/test-package/pull/24) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v5.0.0 (Thu Jul 02 2020)
 
 #### 💥 Breaking Change
