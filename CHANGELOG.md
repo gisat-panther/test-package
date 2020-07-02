@@ -1,3 +1,15 @@
+# v4.0.6 (Thu Jul 02 2020)
+
+#### 🐛 Bug Fix
+
+- Use GITHUB_TOKEN [#22](https://github.com/gisat-panther/test-package/pull/22) ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v4.0.5 (Wed Jul 01 2020)
 
 #### 🐛 Bug Fix
