@@ -1,6 +1,49 @@
 {
-    "name": "ci",
-    "email": "ci@example.com",
-    "baseBranch": "master",
-    "prereleaseBranches": ["dev"]
+	"name": "ci",
+	"email": "ci@example.com",
+	"baseBranch": "master",
+	"prereleaseBranches": ["dev"],
+	"labels": [
+		{
+			"name": "major",
+			"changelogTitle": "💥 Breaking Change",
+			"description": "Increment the major version when merged",
+			"releaseType": "major",
+			"color": "#2a928e"
+		},
+		{
+			"name": "minor",
+			"changelogTitle": "🚀 Enhancement",
+			"description": "Increment the minor version when merged",
+			"releaseType": "minor",
+			"color": "#87cdc8"
+		},
+		{
+			"name": "patch",
+			"changelogTitle": "🐾 Patch",
+			"description": "Increment the patch version when merged",
+			"releaseType": "patch",
+			"color": "#d5ece9"
+		},
+		{
+			"name": "skip-release",
+			"description": "Preserve the current version when merged",
+			"releaseType": "skip",
+			"color": "#ffbd34"
+		},
+		{
+			"name": "internal",
+			"changelogTitle": "🏠 Internal",
+			"description": "Changes only affect the internal API",
+			"releaseType": "none",
+			"color": "#fff13b"
+		},
+		{
+			"name": "documentation",
+			"changelogTitle": "📝 Documentation",
+			"description": "Changes only affect the documentation",
+			"releaseType": "none",
+			"color": "#fff13b"
+		},
+	]
 }
