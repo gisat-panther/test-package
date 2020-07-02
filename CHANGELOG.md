@@ -1,3 +1,15 @@
+# v4.1.0 (Thu Jul 02 2020)
+
+#### 🚀 Enhancement
+
+- Use version branches [#25](https://github.com/gisat-panther/test-package/pull/25) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v4.0.6 (Thu Jul 02 2020)
 
 #### 🐛 Bug Fix
