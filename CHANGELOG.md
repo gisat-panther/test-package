@@ -1,3 +1,15 @@
+# v5.0.0 (Thu Jul 02 2020)
+
+#### 💥 Breaking Change
+
+- Major [#26](https://github.com/gisat-panther/test-package/pull/26) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v4.1.0 (Thu Jul 02 2020)
 
 #### 🚀 Enhancement
