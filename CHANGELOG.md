@@ -1,3 +1,23 @@
+# v5.3.0 (Fri Jul 03 2020)
+
+#### 🚀 Enhancement
+
+- Test protected branches again [#29](https://github.com/gisat-panther/test-package/pull/29) ([@tmdmc](https://github.com/tmdmc))
+
+#### 🐾 Patch
+
+- Test protected branches [#28](https://github.com/gisat-panther/test-package/pull/28) ([@tmdmc](https://github.com/tmdmc))
+
+#### ⚠️ Pushed to `master`
+
+- Update release.yml ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v5.2.0 (Thu Jul 02 2020)
 
 #### 🚀 Enhancement
