@@ -1,3 +1,5 @@
+name: tag validation
+
 on:
     pull_request:
         types: [opened, labeled, unlabeled, synchronize]
