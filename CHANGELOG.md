@@ -1,3 +1,15 @@
+# v5.5.4 (Wed Jul 08 2020)
+
+#### ⚠️ Pushed to `master`
+
+- test ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v5.5.2 (Wed Jul 08 2020)
 
 #### ⚠️ Pushed to `master`
