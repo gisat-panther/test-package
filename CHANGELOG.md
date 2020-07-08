@@ -1,3 +1,15 @@
+# v5.5.2 (Wed Jul 08 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Update tag-validation ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v5.5.1 (Wed Jul 08 2020)
 
 #### 🐾 Patch
