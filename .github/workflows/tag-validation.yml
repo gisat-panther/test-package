@@ -1,4 +1,4 @@
-name: tag validation
+name: Tag validation
 
 on:
     pull_request:
