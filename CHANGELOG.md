@@ -1,3 +1,84 @@
+# v5.3.0 (Wed Jul 08 2020)
+
+#### 🚀 Enhancement
+
+- Test protected branches again [#29](https://github.com/gisat-panther/test-package/pull/29) ([@tmdmc](https://github.com/tmdmc))
+
+#### 🐾 Patch
+
+- Test protected branches [#28](https://github.com/gisat-panther/test-package/pull/28) ([@tmdmc](https://github.com/tmdmc))
+
+#### ⚠️ Pushed to `master`
+
+- Update release.yml ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 2
+
+- [@tmdmc](https://github.com/tmdmc)
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
+# v5.2.0 (Thu Jul 02 2020)
+
+#### 🚀 Enhancement
+
+- Labels config (just include labels we want) [#27](https://github.com/gisat-panther/test-package/pull/27) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
+# v5.1.0 (Thu Jul 02 2020)
+
+#### 🚀 Enhancement
+
+- Fix label colors [#24](https://github.com/gisat-panther/test-package/pull/24) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
+# v5.0.0 (Thu Jul 02 2020)
+
+#### 💥 Breaking Change
+
+- Major [#26](https://github.com/gisat-panther/test-package/pull/26) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
+# v4.1.0 (Thu Jul 02 2020)
+
+#### 🚀 Enhancement
+
+- Use version branches [#25](https://github.com/gisat-panther/test-package/pull/25) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
+# v4.0.6 (Thu Jul 02 2020)
+
+#### 🐛 Bug Fix
+
+- Use GITHUB_TOKEN [#22](https://github.com/gisat-panther/test-package/pull/22) ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v4.0.5 (Wed Jul 01 2020)
 
 #### 🐛 Bug Fix
