@@ -1,3 +1,14 @@
+# v5.5.1 (Wed Jul 08 2020)
+
+#### 🐾 Patch
+
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v5.3.0 (Wed Jul 08 2020)
 
 #### 🚀 Enhancement
