@@ -4,6 +4,7 @@
 	"baseBranch": "master",
 	"prereleaseBranches": ["dev"],
 	"versionBranches": true,
+	"plugins": [],
 	"labels": [
 		{
 			"name": "major",
