@@ -4,7 +4,7 @@
 	"baseBranch": "master",
 	"prereleaseBranches": ["dev"],
 	"versionBranches": true,
-	"plugins": [],
+	"plugins": ["git-tag"],
 	"labels": [
 		{
 			"name": "major",
