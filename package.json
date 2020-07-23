@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/gisat-panther/test-package#readme",
     "devDependencies": {
+        "@auto-it/git-tag": "^9.47.2",
         "auto": "^9.40.5"
     }
 }
