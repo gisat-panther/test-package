@@ -1,1 +1,1 @@
-console.log('Hello cruel Europe!');
+console.log('Hello cruel Czechia!');
