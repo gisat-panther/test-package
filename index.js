@@ -1,1 +1,1 @@
-console.log('Hello cruel Czechia!');
+console.log('Goodbye cruel Czechia!');
