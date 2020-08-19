@@ -1,6 +1,6 @@
 {
     "name": "@gisatcz/test-package",
-    "version": "5.5.4",
+    "version": "5.5.5",
     "description": "Test package",
     "main": "index.js",
     "scripts": {
