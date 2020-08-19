@@ -1,3 +1,20 @@
+# v6.1.0 (Wed Aug 19 2020)
+
+#### 🚀 Enhancement
+
+- Another dev branch test [#37](https://github.com/gisat-panther/test-package/pull/37) ([@tmdmc](https://github.com/tmdmc))
+
+#### 🐾 Patch
+
+- Another dev branch test 2 [#38](https://github.com/gisat-panther/test-package/pull/38) ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 2
+
+- [@tmdmc](https://github.com/tmdmc)
+- Pavel Vlach ([@vlach1989](https://github.com/vlach1989))
+
+---
+
 # v6.0.0 (Wed Aug 19 2020)
 
 #### 💥 Breaking Change
