@@ -2,7 +2,7 @@
 	"name": "ci",
 	"email": "ci@example.com",
 	"baseBranch": "master",
-	"prereleaseBranches": ["dev"],
+	"prereleaseBranches": ["dev", "devdev"],
 	"versionBranches": true,
 	"labels": [
 		{
