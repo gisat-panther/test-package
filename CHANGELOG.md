@@ -1,3 +1,21 @@
+# v6.0.0 (Wed Aug 19 2020)
+
+#### 💥 Breaking Change
+
+- minor change [#34](https://github.com/gisat-panther/test-package/pull/34) ([@vlach1989](https://github.com/vlach1989))
+
+#### 🐾 Patch
+
+- minor change 2 [#35](https://github.com/gisat-panther/test-package/pull/35) ([@tmdmc](https://github.com/tmdmc) ci@example.com [@vlach1989](https://github.com/vlach1989))
+
+#### Authors: 3
+
+- [@tmdmc](https://github.com/tmdmc)
+- ci (ci@example.com)
+- Pavel Vlach ([@vlach1989](https://github.com/vlach1989))
+
+---
+
 # v5.5.6 (Wed Aug 19 2020)
 
 #### ⚠️ Pushed to `master`
