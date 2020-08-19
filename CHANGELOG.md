@@ -1,3 +1,15 @@
+# v5.5.5 (Wed Aug 19 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Workflow name ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v5.5.4 (Wed Jul 08 2020)
 
 #### ⚠️ Pushed to `master`
