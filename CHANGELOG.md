@@ -1,3 +1,72 @@
+# v5.5.5 (Wed Aug 19 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Workflow name ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
+# v5.5.4 (Wed Jul 08 2020)
+
+#### ⚠️ Pushed to `master`
+
+- test ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
+# v5.5.2 (Wed Jul 08 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Fix casing ([@nenadalm](https://github.com/nenadalm))
+- Update tag-validation ([@nenadalm](https://github.com/nenadalm))
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
+# v5.5.1 (Wed Jul 08 2020)
+
+#### 🐾 Patch
+
+
+#### Authors: 1
+
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
+# v5.3.0 (Wed Jul 08 2020)
+
+#### 🚀 Enhancement
+
+- Test protected branches again [#29](https://github.com/gisat-panther/test-package/pull/29) ([@tmdmc](https://github.com/tmdmc))
+
+#### 🐾 Patch
+
+- Test protected branches [#28](https://github.com/gisat-panther/test-package/pull/28) ([@tmdmc](https://github.com/tmdmc))
+
+#### ⚠️ Pushed to `master`
+
+- Update release.yml ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 2
+
+- [@tmdmc](https://github.com/tmdmc)
+- Miloslav Nenadál ([@nenadalm](https://github.com/nenadalm))
+
+---
+
 # v5.2.0 (Thu Jul 02 2020)
 
 #### 🚀 Enhancement
