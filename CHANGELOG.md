@@ -1,3 +1,15 @@
+# v5.5.6 (Wed Aug 19 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Allow skip-release PR label ([@tmdmc](https://github.com/tmdmc))
+
+#### Authors: 1
+
+- [@tmdmc](https://github.com/tmdmc)
+
+---
+
 # v5.5.5 (Wed Aug 19 2020)
 
 #### ⚠️ Pushed to `master`
